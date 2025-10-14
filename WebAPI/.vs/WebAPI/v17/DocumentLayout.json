@@ -72,7 +72,7 @@
               "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\moses\\source\\repos\\flowingly\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\TestProject\\UnitTest1.cs",
               "RelativeToolTip": "TestProject\\UnitTest1.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T00:46:46.339Z",
               "EditorCaption": ""
@@ -87,8 +87,7 @@
               "RelativeToolTip": "UnitTesting\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T00:46:25.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T00:46:25.498Z"
             },
             {
               "$type": "Document",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "WebAPI\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T00:29:47.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T00:29:47.036Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "WebAPI\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T00:29:44.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T00:29:44.048Z"
             },
             {
               "$type": "Document",
@@ -126,8 +123,7 @@
               "RelativeToolTip": "WebAPI\\Startup.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T00:29:31.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T00:29:31.292Z"
             },
             {
               "$type": "Document",
@@ -152,8 +148,7 @@
               "RelativeToolTip": "WebAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T00:29:52.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T00:29:52.065Z"
             },
             {
               "$type": "Document",
@@ -165,8 +160,7 @@
               "RelativeToolTip": "WebAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-13T21:37:05.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:37:05.253Z"
             },
             {
               "$type": "Document",
@@ -178,8 +172,7 @@
               "RelativeToolTip": "WebAPI\\Models\\DCandidate.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:44:43.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:44:43.954Z"
             },
             {
               "$type": "Document",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "WebAPI\\Migrations\\20200115115809_InitialCreate.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T21:49:41.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:49:41.586Z"
             }
           ]
         }
