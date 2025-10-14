@@ -1,1 +1,1 @@
-[!Flowingly](https://github.com/mosesnova/Flowingly/blob/master/flowingly.png)
+![Flowingly](https://github.com/mosesnova/Flowingly/blob/master/flowingly.png)
