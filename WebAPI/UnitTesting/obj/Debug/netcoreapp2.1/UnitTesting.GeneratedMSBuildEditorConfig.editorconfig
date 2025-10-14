@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = UnitTesting
+build_property.ProjectDir = C:\Users\moses\source\repos\flowingly\React-CRUD-with-Asp.Net-Core-Web-API-master\React-CRUD-with-Asp.Net-Core-Web-API-master\WebAPI\UnitTesting\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

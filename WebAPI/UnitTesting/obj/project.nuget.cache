@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsnXE881WKk=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\moses\\source\\repos\\flowingly\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\UnitTesting\\UnitTesting.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project WebAPI is not compatible with netcoreapp2.1 (.NETCoreApp,Version=v2.1). Project WebAPI supports: netcoreapp3.0 (.NETCoreApp,Version=v3.0)",
+      "projectPath": "C:\\Users\\moses\\source\\repos\\flowingly\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\UnitTesting\\UnitTesting.csproj",
+      "filePath": "C:\\Users\\moses\\source\\repos\\flowingly\\React-CRUD-with-Asp.Net-Core-Web-API-master\\React-CRUD-with-Asp.Net-Core-Web-API-master\\WebAPI\\UnitTesting\\UnitTesting.csproj",
+      "libraryId": "WebAPI",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}
